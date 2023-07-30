@@ -1,7 +1,8 @@
-# Carpeta-Veronica-Flores
+
 # Portafolio Responsivo con Bootstrap 5
 
-El presente proyecto es creado para el bootcamp de **Tecnolochicas PRO Summer Camp**.
+El presente proyecto es creado para el bootcamp de **Tecnolochicas PRO Summer Camp**. 
+Puedes consultarlo en: https://chic-donut-e445c1.netlify.app/
 
 Es una página web resposiva *(adaptable a diversos tamaños de pantalla)*.
 
